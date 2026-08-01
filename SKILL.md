@@ -1,6 +1,6 @@
 ---
 name: fire-hotspot-download
-description: 'Download MODIS and VIIRS active fire hotspot data from NASA FIRMS. description: 'Download MODIS and VIIRS active fire hotspot data from NASA FIRMS.  Supports filtering by date range, bounding box, and instrument.  Outputs CSV and GeoJSON formats with near-real-time and standard products.  '
+description: 'Download MODIS and VIIRS active fire hotspot data from NASA FIRMS.  Supports filtering by date range, bounding box, and instrument.  Outputs CSV and GeoJSON formats with near-real-time and standard products.'
 ---
 
 # Fire Hotspot Data Download
